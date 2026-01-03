@@ -1,6 +1,6 @@
 [project]
 name = "rootkids"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = [
     {name = "ardhptr21",email = "ardhiputrapradana21@gmail.com"}
